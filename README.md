@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I am Sameer and Welcome to my Github 👋
 
 <!--
 **sthokar/sthokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Sameer 👋
-### 📫 Get In Touch
+### Get In Touch
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
 <a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
